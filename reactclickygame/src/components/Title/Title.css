@@ -1,0 +1,23 @@
+.title {
+    width: 100%;
+    text-align: center;
+    font-family: 'Cormorant', serif;
+    font-size: 3rem;
+    text-decoration: underline;
+    color:rgb(176, 184, 189);
+    margin-bottom: 40px;
+    margin-top: -20px;
+
+  }
+
+  .titleHeader {
+    /* opacity: 0.8; */
+    background-image: url(../images/iron-throne.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 200px;
+    padding: 180px 20px;
+    color: white;
+  }
+  
+  

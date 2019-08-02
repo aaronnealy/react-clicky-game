@@ -1,0 +1,48 @@
+
+.card {
+    background-size: cover;
+    background-position: 50%;
+    background: #2D0605;
+    border-radius: 2px;
+    height: 200px;
+    margin: 1rem;
+    position: relative;
+    width: 200px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+  }
+
+  .shake {
+    -webkit-animation: shake .5s .0125s;
+    animation: shake .5s .0125s;
+}
+  
+  .card > .img-container {
+    /* margin-top: 1rem; */
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+    border: 5px solid #2D0605;
+  }
+  /* .card > .img-container > img {
+    width: 60%
+  } */
+  
+  .card > .content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 15px;
+  }
+  
+  .card > .content > ul {
+    list-style-type: none;
+  }
+  
+  /* .card > .content > ul > li {
+    margin-top: 18px;
+    color: white;
+  } */
+  
+  
+
+  
